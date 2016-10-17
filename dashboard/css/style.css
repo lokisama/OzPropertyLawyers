@@ -6,3 +6,8 @@
 	background:#e7505a!important;
 	border-color:#e7505a!important;
 }
+
+.page-header .page-header-menu .hor-menu .navbar-nav>li.active>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a:hover{
+	
+	background:#e7505a!important;
+}
