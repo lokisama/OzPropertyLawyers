@@ -12,7 +12,7 @@
 	background:#e7505a!important;
 }
 
-.portlet.light>.portlet-title>.caption>.caption-subject{
+body.dcenter .portlet.light>.portlet-title>.caption>.caption-subject{
 	font-size:13px!important;
 }
 
