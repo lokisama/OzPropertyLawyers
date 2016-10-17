@@ -8,6 +8,17 @@
 }
 
 .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.active>a:hover, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a, .page-header .page-header-menu .hor-menu .navbar-nav>li.current>a:hover{
-	
+
 	background:#e7505a!important;
+}
+
+.portlet.light>.portlet-title>.caption>.caption-subject{
+	font-size:13px!important;
+}
+
+.mt-widget-3 .mt-head .mt-head-label {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    cursor: pointer;
 }
